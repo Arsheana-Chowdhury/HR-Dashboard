@@ -37,9 +37,9 @@ This dashboard aims to provide a clear overview of workforce data and HR perform
 
 ## 📸 Screenshot / Demo
 
-Show what the dashboard looks like. - ![Alt text]()
+Show what the dashboard looks like. - ![Alt text](https://github.com/Arsheana-Chowdhury/HR-Dashboard/blob/main/Dashboard%20Preview.png)
 
-**Example:** [View Dashboard Screenshot]()
+**Example:** [View Dashboard Screenshot](https://github.com/Arsheana-Chowdhury/HR-Dashboard/blob/main/Dashboard%20Preview.png)
 
 ## 🎯 Objective
 
