@@ -1,9 +1,9 @@
 
-# 👥 HR Analytics Dashboard | Power BI
+# 👥 HR Analytics Dashboard
 
 ## 📌 Project Overview
 
-Developed an interactive Power BI dashboard to analyze workforce demographics, employee status, and employment trends.
+Developed an interactive dashboard to analyze workforce demographics, employee status, and employment trends.
 
 ## 🎯 Short Description / Purpose
 
